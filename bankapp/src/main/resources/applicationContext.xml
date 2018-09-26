@@ -17,4 +17,6 @@
 		id="bankAccountController" class="com.capgemini.bankapp.controller.BankAccountController"> 
 		<constructor-arg index="0" name="bankAccountService" ref="bankAccountService"/> 
 		<property name="bankAccountService" ref="bankAccountService"/> </bean> -->
+		
+		
 </beans>
